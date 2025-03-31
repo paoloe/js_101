@@ -39,7 +39,7 @@ Found these topics on trusty:
 - [ ] Event queue 
 - [ ] Promises and async management 
 - [ ] Try/catch (In particular for those coming from other languages)
-    - [ ] talking about how objects are often not instances of classes 
+    - [ ] talking about how objects are often[README.md](README.md) not instances of classes 
     - [ ] how objects are often used as dictionaries/hashmaps 
     - [ ] how "const" does not mean what you expect and is used very, very often and why that is a good thing 
     - [ ] event-based flow vs multi threading
